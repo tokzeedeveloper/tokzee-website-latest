@@ -8,7 +8,7 @@ export default function Guidelines() {
       <SEOHead 
         title="Community Guidelines - Better Friend"
         description="Read Better Friend's community guidelines for respectful, safe interactions. Learn about our standards for meaningful conversations and user conduct."
-        canonical="https://www.betterfriend.live/guidelines"
+        canonical="https://www.tokzee.live/guidelines"
       />
       <div className="min-h-screen flex flex-col">
         <Header />
