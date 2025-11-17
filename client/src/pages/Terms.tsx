@@ -36,7 +36,7 @@ export default function Terms() {
                 <span className="underline">www.betterfriend.live</span> and our
                 mobile application (the “App”), together referred to as{" "}
                 <strong>BetterFriend</strong>. The App is operated by{" "}
-                <strong>Brewing Conversations Pvt Ltd</strong> (the “Company”),
+                <strong>VoicePe Technologies Pvt Ltd</strong> (the “Company”),
                 a company registered in India with its office at{" "}
                 <strong>
                   48-B Ambamata Scheme, Udaipur, Rajasthan – 313003, India
@@ -44,7 +44,7 @@ export default function Terms() {
                 .
               </p>
               <p className="text-base text-muted-foreground mt-4">
-                “We”, “our” or “us” refers to Brewing Conversations Pvt Ltd, and
+                “We”, “our” or “us” refers to VoicePe Technologies Pvt Ltd, and
                 “you” or “your” refers to any user of BetterFriend.
               </p>
               <p className="text-base text-muted-foreground mt-4">

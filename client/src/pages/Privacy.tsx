@@ -25,7 +25,7 @@ export default function Privacy() {
               </h1>
               <p className="text-base text-muted-foreground">
                 Welcome to BetterFriend’s Privacy Policy. This document explains how
-                <strong> Brewing Conversations Pvt Ltd</strong> (“BetterFriend”, “we”, “us”, or “our”)
+                <strong> VoicePe Technologies Pvt Ltd</strong> (“BetterFriend”, “we”, “us”, or “our”)
                 collects, uses, stores, and shares your personal information while you use
                 BetterFriend, and how you can manage your data and privacy choices while using the app.
               </p>
