@@ -8,7 +8,7 @@ export default function Terms() {
       <SEOHead
         title="Terms of Use - BetterFriend"
         description="Read BetterFriend’s Terms of Use for our private audio and video calling platform, including eligibility, user obligations, payments, dispute resolution, and grievance redressal."
-        canonical="https://www.betterfriend.live/terms"
+        canonical="https://www.tokzee.live/terms"
       />
 
       <div className="min-h-screen flex flex-col">
