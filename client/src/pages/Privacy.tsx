@@ -6,8 +6,8 @@ export default function Privacy() {
   return (
     <>
       <SEOHead
-        title="Privacy Policy - BetterFriend"
-        description="How BetterFriend collects, uses, stores, and shares your personal information, and the choices you have about your data."
+        title="Privacy Policy - Tokzee"
+        description="How Tokzee collects, uses, stores, and shares your personal information, and the choices you have about your data."
         canonical="https://www.tokzee.live/privacy"
       />
 
@@ -24,16 +24,16 @@ export default function Privacy() {
                 Privacy Policy
               </h1>
               <p className="text-base text-muted-foreground">
-                Welcome to BetterFriend’s Privacy Policy. This document explains how
-                <strong> VoicePe Technologies Pvt Ltd</strong> (“BetterFriend”, “we”, “us”, or “our”)
+                Welcome to Tokzee’s Privacy Policy. This document explains how
+                <strong> VoicePe Technologies Pvt Ltd</strong> (“Tokzee”, “we”, “us”, or “our”)
                 collects, uses, stores, and shares your personal information while you use
-                BetterFriend, and how you can manage your data and privacy choices while using the app.
+                Tokzee, and how you can manage your data and privacy choices while using the app.
               </p>
               <p className="text-base text-muted-foreground">
                 We believe in being transparent about how your data is handled. This policy outlines
                 the types of information we collect, the purposes for which we use it, and the tools
                 we offer to help you control what you share and with whom.
-                This Privacy Policy applies to all features, products, and services offered through BetterFriend.
+                This Privacy Policy applies to all features, products, and services offered through Tokzee.
                 Please read this Privacy Policy along with our{" "}
                 <a href="/terms" className="underline">Terms and Conditions of Use</a>. In case of any conflict between the two,
                 this Privacy Policy will override the Terms. If you have any questions, feel free to reach out at{" "}
@@ -49,7 +49,7 @@ export default function Privacy() {
                 </h2>
                 <p className="text-muted-foreground">
                   We collect personal information to help set up and operate your account, provide our services,
-                  comply with legal requirements, and improve BetterFriend. The table below outlines the categories
+                  comply with legal requirements, and improve Tokzee. The table below outlines the categories
                   of data we collect, how we collect it, and how we use it.
                 </p>
 
@@ -215,7 +215,7 @@ export default function Privacy() {
                 <p className="text-muted-foreground mt-6">
                   In addition to the above, we may also use your personal data to perform analytics and usage analysis
                   (including through aggregated or pseudonymised data) to understand how users interact with the platform
-                  and improve the performance, design, and safety of BetterFriend.
+                  and improve the performance, design, and safety of Tokzee.
                 </p>
               </section>
 
@@ -243,7 +243,7 @@ export default function Privacy() {
 
                 <h3 className="text-xl font-semibold mt-6 mb-2">With our service providers</h3>
                 <p className="text-muted-foreground">
-                  We engage trusted third-party service providers to help operate and maintain BetterFriend. These may include cloud storage and hosting,
+                  We engage trusted third-party service providers to help operate and maintain Tokzee. These may include cloud storage and hosting,
                   call infrastructure providers, analytics and diagnostics partners, customer support tools, security and fraud detection services,
                   user engagement and notification platforms, and AI service providers (including content moderation tools, chatbot infrastructure,
                   and prompt generation systems). These providers only process your information on our behalf and under strict confidentiality
@@ -254,18 +254,18 @@ export default function Privacy() {
                 <p className="text-muted-foreground">
                   We may disclose your information if necessary to comply with applicable laws, legal proceedings, or valid government requests;
                   respond to law enforcement inquiries; enforce our Terms and Conditions of Use or investigate policy violations;
-                  detect or prevent fraud, abuse, or technical issues; or protect the rights, safety, and property of BetterFriend, our users, or the public.
+                  detect or prevent fraud, abuse, or technical issues; or protect the rights, safety, and property of Tokzee, our users, or the public.
                 </p>
 
                 <h3 className="text-xl font-semibold mt-6 mb-2">With our group entities</h3>
                 <p className="text-muted-foreground">
                   We may share your information with our parent company, subsidiaries, and affiliated entities to support the provision,
-                  improvement, and security of BetterFriend.
+                  improvement, and security of Tokzee.
                 </p>
 
                 <h3 className="text-xl font-semibold mt-6 mb-2">In case of a business transfer</h3>
                 <p className="text-muted-foreground">
-                  If BetterFriend is involved in a merger, acquisition, restructuring, or sale of assets, your data may be transferred
+                  If Tokzee is involved in a merger, acquisition, restructuring, or sale of assets, your data may be transferred
                   to the relevant third party as part of that transaction. If such a transfer affects your rights, we will notify you as required by law.
                 </p>
 
@@ -366,7 +366,7 @@ export default function Privacy() {
 
                 <h3 className="text-xl font-semibold mt-6 mb-2">In-App Reporting</h3>
                 <p className="text-muted-foreground">
-                  You can report user profiles or make complaints directly within the BetterFriend app using the Help &amp; Support section.
+                  You can report user profiles or make complaints directly within the Tokzee app using the Help &amp; Support section.
                 </p>
 
                 <h3 className="text-xl font-semibold mt-6 mb-2">Email Support</h3>

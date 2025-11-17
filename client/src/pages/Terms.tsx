@@ -6,8 +6,8 @@ export default function Terms() {
   return (
     <>
       <SEOHead
-        title="Terms of Use - BetterFriend"
-        description="Read BetterFriend’s Terms of Use for our private audio and video calling platform, including eligibility, user obligations, payments, dispute resolution, and grievance redressal."
+        title="Terms of Use - Tokzee"
+        description="Read Tokzee’s Terms of Use for our private audio and video calling platform, including eligibility, user obligations, payments, dispute resolution, and grievance redressal."
         canonical="https://www.tokzee.live/terms"
       />
 
@@ -26,7 +26,7 @@ export default function Terms() {
               <p className="text-base text-muted-foreground">
                 These Terms of Use (“Terms”) are designed to ensure that everyone
                 has a safe, respectful, and smooth experience on{" "}
-                <strong>BetterFriend</strong>. These Terms also incorporate, by
+                <strong>Tokzee</strong>. These Terms also incorporate, by
                 reference, specific Terms of Use applicable to{" "}
                 <strong>Hosts</strong>, which are accessible via the
                 appropriate in-app link.
@@ -35,7 +35,7 @@ export default function Terms() {
                 These Terms apply to your use of our website{" "}
                 <span className="underline">www.tokzee.live</span> and our
                 mobile application (the “App”), together referred to as{" "}
-                <strong>BetterFriend</strong>. The App is operated by{" "}
+                <strong>Tokzee</strong>. The App is operated by{" "}
                 <strong>VoicePe Technologies Pvt Ltd</strong> (the “Company”),
                 a company registered in India with its office at{" "}
                 <strong>
@@ -45,7 +45,7 @@ export default function Terms() {
               </p>
               <p className="text-base text-muted-foreground mt-4">
                 “We”, “our” or “us” refers to VoicePe Technologies Pvt Ltd, and
-                “you” or “your” refers to any user of BetterFriend.
+                “you” or “your” refers to any user of Tokzee.
               </p>
               <p className="text-base text-muted-foreground mt-4">
                 These Terms must be read together with our{" "}
@@ -56,14 +56,14 @@ export default function Terms() {
                 <a href="/guidelines" className="underline">
                   Community Guidelines
                 </a>{" "}
-                (collectively, the “Platform Policies”). By using BetterFriend
+                (collectively, the “Platform Policies”). By using Tokzee
                 and accepting the Platform Policies when signing up, you confirm
                 that you have read and accepted them. If you do not agree to any
-                of the Platform Policies, please do not use BetterFriend.
+                of the Platform Policies, please do not use Tokzee.
               </p>
               <p className="text-base text-muted-foreground mt-4">
                 You are also responsible for ensuring that you are permitted to
-                access and use BetterFriend under the laws of your jurisdiction.
+                access and use Tokzee under the laws of your jurisdiction.
               </p>
             </div>
 
@@ -74,13 +74,13 @@ export default function Terms() {
                   1. About the App
                 </h2>
                 <p className="text-muted-foreground">
-                  BetterFriend is a platform that allows users to connect and
+                  Tokzee is a platform that allows users to connect and
                   interact with others through one-on-one audio and video calls.
                   These interactions are entirely voluntary and initiated at
                   users’ discretion. Calls can be made using virtual coins
                   (“Coins”), which can be purchased within the App. Users also
                   have the option to buy and send virtual gifts to others on
-                  BetterFriend (together, the “Services”).
+                  Tokzee (together, the “Services”).
                 </p>
                 <p className="text-muted-foreground mt-4">
                   While you are free to choose whom you interact with, certain
@@ -90,7 +90,7 @@ export default function Terms() {
                     Community Guidelines
                   </a>{" "}
                   to understand what is permitted and what is prohibited on
-                  BetterFriend.
+                  Tokzee.
                 </p>
                 <p className="text-muted-foreground mt-4">
                   By starting a transaction to use any of the Services, you
@@ -107,7 +107,7 @@ export default function Terms() {
                 <p className="text-muted-foreground">
                   We may update the Platform Policies from time to time,
                   including to reflect changes in the Services we offer or to
-                  improve how BetterFriend operates. This may include modifying,
+                  improve how Tokzee operates. This may include modifying,
                   disabling, or removing certain features or services, either
                   temporarily or permanently, at our discretion.
                 </p>
@@ -122,7 +122,7 @@ export default function Terms() {
                   will obtain it before implementing the change.
                 </p>
                 <p className="text-muted-foreground mt-4">
-                  By continuing to use BetterFriend after updated Platform
+                  By continuing to use Tokzee after updated Platform
                   Policies take effect, you agree to be bound by them. We
                   encourage you to review this page periodically to stay
                   informed about any updates.
@@ -135,10 +135,10 @@ export default function Terms() {
                   3. Eligibility
                 </h2>
                 <p className="text-muted-foreground">
-                  You may use BetterFriend and avail the Services only if you
+                  You may use Tokzee and avail the Services only if you
                   are capable of forming a binding agreement with us. You must
                   be at least 18 years of age. You must also be legally
-                  permitted to use BetterFriend and the Services under the laws
+                  permitted to use Tokzee and the Services under the laws
                   of your country.
                 </p>
               </section>
@@ -149,7 +149,7 @@ export default function Terms() {
                   4. Signing Up
                 </h2>
                 <p className="text-muted-foreground">
-                  To use BetterFriend, you need to create an account by
+                  To use Tokzee, you need to create an account by
                   providing your username, mobile number, gender, and age. Once
                   your account is created, you can start using the Services.
                   Please refer to our{" "}
@@ -227,10 +227,10 @@ export default function Terms() {
                 </h2>
 
                 <h3 className="text-xl font-semibold mt-6 mb-2">
-                  Use BetterFriend Lawfully and Respectfully
+                  Use Tokzee Lawfully and Respectfully
                 </h3>
                 <p className="text-muted-foreground">
-                  You agree not to use BetterFriend in any way that:
+                  You agree not to use Tokzee in any way that:
                 </p>
                 <ul className="list-disc pl-6 text-muted-foreground mt-2 space-y-1">
                   <li>violates any law (in India or elsewhere);</li>
@@ -254,7 +254,7 @@ export default function Terms() {
                 <p className="text-muted-foreground">
                   You must use your correct phone number and gender to access
                   our Services. Do not provide false information or impersonate
-                  anyone while using BetterFriend.
+                  anyone while using Tokzee.
                 </p>
 
                 <h3 className="text-xl font-semibold mt-6 mb-2">
@@ -277,7 +277,7 @@ export default function Terms() {
                   Follow Our Community Guidelines
                 </h3>
                 <p className="text-muted-foreground">
-                  All interactions on BetterFriend must follow our{" "}
+                  All interactions on Tokzee must follow our{" "}
                   <a href="/guidelines" className="underline">
                     Community Guidelines
                   </a>
@@ -297,7 +297,7 @@ export default function Terms() {
                   Do Not Share Prohibited Content
                 </h3>
                 <p className="text-muted-foreground">
-                  You must not use BetterFriend to share any content that is
+                  You must not use Tokzee to share any content that is
                   illegal, harmful, or violates our Community Guidelines. This
                   includes, but is not limited to, content that is obscene,
                   discriminatory, promotes hate or violence, or is harmful to
@@ -305,7 +305,7 @@ export default function Terms() {
                 </p>
                 <p className="text-muted-foreground mt-2">
                   For a complete list of what is and is not allowed on
-                  BetterFriend, please read our Community Guidelines. We reserve
+                  Tokzee, please read our Community Guidelines. We reserve
                   the right to remove any content that violates these policies
                   and to take appropriate action against your account.
                 </p>
@@ -321,13 +321,13 @@ export default function Terms() {
                 <ul className="list-disc pl-6 text-muted-foreground mt-2 space-y-1">
                   <li>respond to a valid legal request;</li>
                   <li>
-                    protect the rights, safety, or property of BetterFriend, its
+                    protect the rights, safety, or property of Tokzee, its
                     users, or the public; or
                   </li>
                   <li>prevent fraud, misuse, or security risks.</li>
                 </ul>
                 <p className="text-muted-foreground mt-2">
-                  While we work to keep BetterFriend safe, we are not
+                  While we work to keep Tokzee safe, we are not
                   responsible for the actions of other users, whether on or off
                   the App.
                 </p>
@@ -337,12 +337,12 @@ export default function Terms() {
                 </h3>
                 <p className="text-muted-foreground">
                   You retain ownership of any content you create and share.
-                  However, you must not use BetterFriend to violate anyone
+                  However, you must not use Tokzee to violate anyone
                   else’s intellectual property rights, including ours.
                 </p>
                 <p className="text-muted-foreground mt-2">
                   We retain ownership of all intellectual property rights in
-                  BetterFriend, including our name, logo, content, design,
+                  Tokzee, including our name, logo, content, design,
                   features, and software. Any unauthorised use may result in
                   suspension or termination of your account or other action in
                   accordance with the Platform Policies.
@@ -368,7 +368,7 @@ export default function Terms() {
                   7. Our Responsibility and Limitations
                 </h2>
                 <p className="text-muted-foreground">
-                  BetterFriend provides a platform for users to connect through
+                  Tokzee provides a platform for users to connect through
                   one-on-one audio and video calls. We act as an intermediary
                   under applicable Indian law and do not create, control, or
                   endorse the content or interactions shared by users.
@@ -389,7 +389,7 @@ export default function Terms() {
                   8. Third-Party Links and Tools
                 </h2>
                 <p className="text-muted-foreground">
-                  BetterFriend may contain links to external websites or include
+                  Tokzee may contain links to external websites or include
                   third-party features, such as AI tools or social sharing
                   options. These are operated independently and are not
                   controlled by us.
@@ -408,21 +408,21 @@ export default function Terms() {
                   9. Intellectual Property
                 </h2>
                 <p className="text-muted-foreground">
-                  Your use of BetterFriend must comply with all applicable laws
+                  Your use of Tokzee must comply with all applicable laws
                   on copyright, trademarks, patents, and other intellectual
                   property rights. You are responsible for ensuring that
-                  anything you do on BetterFriend does not violate someone
+                  anything you do on Tokzee does not violate someone
                   else’s rights.
                 </p>
                 <p className="text-muted-foreground mt-4">
                   We own all intellectual property rights in the content,
                   design, features, and trademarks made available by
-                  BetterFriend, including our name, logo, and software. You may
+                  Tokzee, including our name, logo, and software. You may
                   not copy, use, or distribute any of this without our
                   permission.
                 </p>
                 <p className="text-muted-foreground mt-4">
-                  If any third-party content or tools appear on BetterFriend,
+                  If any third-party content or tools appear on Tokzee,
                   the rights in that material remain with the respective owners.
                   You may need to obtain their permission if you wish to use it
                   outside the App.
@@ -441,11 +441,11 @@ export default function Terms() {
                 </h2>
                 <p className="text-muted-foreground">
                   Virtual coins (“Coins”) and virtual gifts are digital items
-                  made available on BetterFriend as part of our Services. They
+                  made available on Tokzee as part of our Services. They
                   are not sold to you as physical or tangible goods. When you
                   purchase Coins or use Coins to send a virtual gift, you
                   receive a limited, revocable, non-transferable licence to
-                  access and use those digital features within BetterFriend in
+                  access and use those digital features within Tokzee in
                   accordance with these Terms.
                 </p>
                 <p className="text-muted-foreground mt-4">
@@ -468,11 +468,11 @@ export default function Terms() {
                   maximum extent permitted by law.
                 </p>
                 <p className="text-muted-foreground mt-4">
-                  Coins can be used only on BetterFriend to access permitted
+                  Coins can be used only on Tokzee to access permitted
                   features, including making audio or video calls and sending
                   virtual gifts to other users. Coins cannot be exchanged for
                   cash, legal tender, credit, or any item of value, and cannot
-                  be used for trading on or off BetterFriend. They may not be
+                  be used for trading on or off Tokzee. They may not be
                   combined with promotions, coupons, or discounts except where
                   we allow this.
                 </p>
@@ -489,7 +489,7 @@ export default function Terms() {
                 </p>
                 <p className="text-muted-foreground mt-4">
                   Virtual gifts purchased using Coins are a form of digital
-                  content provided on BetterFriend. They have no real-world
+                  content provided on Tokzee. They have no real-world
                   monetary value, cannot be converted back into Coins, and are
                   non-refundable. We may, at our discretion, replace a virtual
                   gift if it is corrupted or fails to function as intended.
@@ -525,30 +525,30 @@ export default function Terms() {
                   11. Disclaimers and Limitation of Liability
                 </h2>
                 <p className="text-muted-foreground">
-                  BetterFriend is provided to you on an “as is where is” basis.
+                  Tokzee is provided to you on an “as is where is” basis.
                   We make no representations or warranties, express or implied,
-                  about BetterFriend, the Services, or the content shared on it.
+                  about Tokzee, the Services, or the content shared on it.
                   This includes any warranties regarding fitness for a
                   particular purpose, accuracy, reliability, or
-                  non-infringement. We do not guarantee that BetterFriend will
+                  non-infringement. We do not guarantee that Tokzee will
                   be uninterrupted or error-free, or that the information
                   provided through the App will be accurate.
                 </p>
                 <p className="text-muted-foreground mt-4">
-                  You use BetterFriend and the Services at your own risk. We do
+                  You use Tokzee and the Services at your own risk. We do
                   not monitor user behaviour or conduct background checks and
                   are not responsible for the actions or conduct of other users,
                   whether on or off the App.
                 </p>
                 <p className="text-muted-foreground mt-4">
                   To the fullest extent permitted by law, we are not liable for
-                  any loss or damage arising from your use of BetterFriend or
+                  any loss or damage arising from your use of Tokzee or
                   the Services. This includes direct, indirect, incidental,
                   special, or consequential losses, including loss of data,
                   revenue, profits, reputation, or claims made by third parties.
                   If we are held liable under applicable law, our total
                   liability will be limited to the amount you paid (if any) for
-                  Services on BetterFriend in the six (6) months prior to the
+                  Services on Tokzee in the six (6) months prior to the
                   event giving rise to the claim.
                 </p>
               </section>
@@ -559,7 +559,7 @@ export default function Terms() {
                   12. Indemnity
                 </h2>
                 <p className="text-muted-foreground">
-                  By using BetterFriend, you agree to take full responsibility
+                  By using Tokzee, you agree to take full responsibility
                   for your actions. You agree to indemnify and hold harmless the
                   Company, its affiliates, officers, directors, employees,
                   agents, successors, and assigns from and against any claims,
@@ -568,7 +568,7 @@ export default function Terms() {
                   in connection with:
                 </p>
                 <ul className="list-disc pl-6 text-muted-foreground mt-2 space-y-1">
-                  <li>your access to or use of BetterFriend or the Services;</li>
+                  <li>your access to or use of Tokzee or the Services;</li>
                   <li>any breach of these Terms by you;</li>
                   <li>
                     any violation by you of another person’s rights, including
@@ -597,7 +597,7 @@ export default function Terms() {
                 <p className="text-muted-foreground">
                   These Terms shall be governed by the laws of India. Any
                   disputes or claims arising from or in connection with these
-                  Terms, BetterFriend, or the Services shall be subject to the
+                  Terms, Tokzee, or the Services shall be subject to the
                   exclusive jurisdiction of the courts at{" "}
                   <strong>Udaipur, Rajasthan</strong>.
                 </p>
@@ -614,7 +614,7 @@ export default function Terms() {
                 </p>
                 <p className="text-muted-foreground mt-4">
                   We may suspend or terminate your account or restrict access to
-                  BetterFriend or specific features, at any time, with or
+                  Tokzee or specific features, at any time, with or
                   without notice, if we believe you have violated these Terms,
                   misused the platform, or engaged in unlawful or inappropriate
                   conduct (on or off the App). This may include cancelling
@@ -634,7 +634,7 @@ export default function Terms() {
                   Provisions that by their nature should survive, such as those
                   relating to dispute resolution, disclaimers, limitations of
                   liability, and indemnity, will remain in effect even after
-                  termination. Unauthorised use of BetterFriend or the Services
+                  termination. Unauthorised use of Tokzee or the Services
                   may lead to action under these Terms or applicable law.
                 </p>
               </section>
@@ -656,7 +656,7 @@ export default function Terms() {
                   In-App Reporting
                 </h3>
                 <p className="text-muted-foreground">
-                  You can report complaints directly within BetterFriend using
+                  You can report complaints directly within Tokzee using
                   the in-app Help &amp; Support section.
                 </p>
 

@@ -1,8 +1,8 @@
-# Fix SSL Error on betterfriend.live - Complete Guide
+# Fix SSL Error on Tokzee.live - Complete Guide
 
 ## The Problem
 
-The error `ERR_SSL_VERSION_OR_CIPHER_MISMATCH` happens because **betterfriend.live doesn't have an SSL certificate yet**. This is a domain configuration issue, not a code issue.
+The error `ERR_SSL_VERSION_OR_CIPHER_MISMATCH` happens because **Tokzee.live doesn't have an SSL certificate yet**. This is a domain configuration issue, not a code issue.
 
 ---
 
@@ -27,7 +27,7 @@ Your site is already live and working with HTTPS at your Netlify subdomain.
 
 ## ✅ SOLUTION 2: Fix Custom Domain (Requires DNS Setup)
 
-To make `betterfriend.live` work with HTTPS, follow these exact steps:
+To make `Tokzee.live` work with HTTPS, follow these exact steps:
 
 ### Step 1: Configure Domain in Netlify Dashboard
 
@@ -35,14 +35,14 @@ To make `betterfriend.live` work with HTTPS, follow these exact steps:
 2. **Select your Better Friend site**
 3. **Go to "Domain management"** (in the left sidebar or top menu)
 4. **Click "Add custom domain"**
-5. **Enter**: `betterfriend.live`
+5. **Enter**: `Tokzee.live`
 6. **Click "Verify"** → Then **"Add domain"**
 
 Netlify will automatically add `www.tokzee.live` as well.
 
 ### Step 2: Configure DNS at Your Domain Registrar
 
-Go to where you bought `betterfriend.live` (GoDaddy, Namecheap, Google Domains, etc.)
+Go to where you bought `Tokzee.live` (GoDaddy, Namecheap, Google Domains, etc.)
 
 **Find the DNS settings** and add these records:
 
@@ -99,7 +99,7 @@ Once you see "HTTPS is enabled" in Netlify:
 **Want it working RIGHT NOW?**
 → Use your Netlify subdomain URL (`https://[site].netlify.app`)
 
-**Want custom domain `betterfriend.live`?**
+**Want custom domain `Tokzee.live`?**
 → Follow Solution 2 steps above (requires DNS setup + wait time)
 
 ---
@@ -123,7 +123,7 @@ Everything else is ready to go!
 
 Post with:
 - Site name: `[your-site].netlify.app`
-- Custom domain: `betterfriend.live`
+- Custom domain: `Tokzee.live`
 - DNS provider name
 - Screenshot of DNS settings
 

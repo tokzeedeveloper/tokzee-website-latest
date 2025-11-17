@@ -27,7 +27,7 @@ export default function Home() {
         <main className="flex-1">
           <HeroSection />
 
-          <section className="py-32 md:py-40 relative" data-testid="section-why-betterfriend">
+          <section className="py-32 md:py-40 relative" data-testid="section-why-Tokzee">
             {/* Decorative elements */}
             <div className="absolute top-10 right-10 w-32 h-32 bg-primary/10 rounded-full blur-3xl" />
             <div className="absolute bottom-20 left-10 w-40 h-40 bg-accent/10 rounded-full blur-3xl" />

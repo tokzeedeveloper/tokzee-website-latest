@@ -44,7 +44,7 @@ Preferred communication style: Simple, everyday language.
 
 **Deployment:**
 - Netlify static hosting
-- Custom domain: betterfriend.live
+- Custom domain: Tokzee.live
 - Automatic deployments from Git
 - Security headers configured (_headers file)
 - SPA fallback routing (_redirects file)

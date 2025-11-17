@@ -1,4 +1,4 @@
-# Fix SSL Error on betterfriend.live - FINAL SOLUTION
+# Fix SSL Error on Tokzee.live - FINAL SOLUTION
 
 ## ✅ Your Code is Fine!
 
@@ -14,7 +14,7 @@ The error **ERR_SSL_PROTOCOL_ERROR** is NOT a code or folder structure issue. Yo
 
 ## 🔍 What's Actually Wrong
 
-The domain `betterfriend.live` is trying to connect via HTTPS, but:
+The domain `Tokzee.live` is trying to connect via HTTPS, but:
 1. Either the SSL certificate wasn't provisioned by Netlify yet
 2. Or the DNS isn't pointing correctly to Netlify
 3. Or there's a Cloudflare/proxy interference
@@ -43,7 +43,7 @@ The domain `betterfriend.live` is trying to connect via HTTPS, but:
 
 **In Netlify Dashboard → Domain management:**
 
-Click on **"Options"** next to `betterfriend.live` → **"Go to DNS panel"**
+Click on **"Options"** next to `Tokzee.live` → **"Go to DNS panel"**
 
 You should see what DNS records Netlify expects. Compare with your actual DNS settings.
 
@@ -51,7 +51,7 @@ You should see what DNS records Netlify expects. Compare with your actual DNS se
 
 ### **Step 3: Configure DNS at Your Domain Registrar**
 
-Go to where you registered `betterfriend.live` (e.g., GoDaddy, Namecheap, Google Domains).
+Go to where you registered `Tokzee.live` (e.g., GoDaddy, Namecheap, Google Domains).
 
 **Find DNS settings** and ensure you have EXACTLY these records:
 
@@ -152,17 +152,17 @@ Now all HTTP requests will redirect to HTTPS automatically.
 ### Test DNS:
 ```bash
 # In terminal (Mac/Linux)
-dig betterfriend.live
+dig Tokzee.live
 dig www.tokzee.live
 
 # Should show:
-# betterfriend.live → 75.2.60.5
+# Tokzee.live → 75.2.60.5
 # www.tokzee.live → [yoursite].netlify.app
 ```
 
 ### Test SSL:
 ```bash
-curl -I https://betterfriend.live
+curl -I https://Tokzee.live
 
 # Should return:
 # HTTP/2 200
@@ -192,7 +192,7 @@ Before asking for help, verify:
 
 **Include:**
 1. Your Netlify site URL: `https://[something].netlify.app`
-2. Your custom domain: `betterfriend.live`
+2. Your custom domain: `Tokzee.live`
 3. DNS provider name (GoDaddy, Namecheap, etc.)
 4. Screenshot of your DNS records
 5. Screenshot of Netlify domain management page
@@ -221,7 +221,7 @@ This URL:
 ## 🎉 Once SSL is Active
 
 After Netlify provisions the SSL certificate:
-- ✅ `https://betterfriend.live` will work perfectly
+- ✅ `https://Tokzee.live` will work perfectly
 - ✅ `https://www.tokzee.live` will work too
 - ✅ HTTP automatically redirects to HTTPS
 - ✅ No more SSL errors
