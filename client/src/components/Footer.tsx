@@ -6,7 +6,7 @@ export default function Footer() {
       <div className="max-w-7xl mx-auto px-8 lg:px-12">
         <div className="grid grid-cols-1 md:grid-cols-3 gap-12 mb-12">
           <div className="space-y-4">
-            <h3 className="text-2xl font-display font-bold text-primary">Better Friend</h3>
+            <h3 className="text-2xl font-display font-bold text-primary">Tokzee</h3>
             <p className="text-base text-muted-foreground leading-relaxed">
               Your companion for meaningful conversations
             </p>
@@ -42,9 +42,9 @@ export default function Footer() {
           <div>
             <h4 className="text-base font-semibold mb-4">Contact</h4>
             <address className="text-base text-muted-foreground not-italic leading-relaxed" data-testid="text-address">
-              48-B Ambamata Scheme<br />
-              Udaipur, Rajasthan<br />
-              India
+              79 Panchwati, Nr Kids Kingdom<br />
+              School, Udaipur, Rajasthan<br />
+              India, 313001
             </address>
             <div className="mt-4">
               <a 
@@ -52,7 +52,7 @@ export default function Footer() {
                 className="text-base text-muted-foreground hover:text-primary transition-colors"
                 data-testid="link-email-support"
               >
-                support@betterfriend.live
+                support@tokzee.live
               </a>
             </div>
           </div>
@@ -60,7 +60,7 @@ export default function Footer() {
 
         <div className="pt-8 border-t text-center">
           <p className="text-base text-muted-foreground">
-            © {new Date().getFullYear()} Better Friend. All rights reserved.
+            © {new Date().getFullYear()} Tokzee. All rights reserved.
           </p>
         </div>
       </div>
