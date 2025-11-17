@@ -38,7 +38,7 @@ To make `betterfriend.live` work with HTTPS, follow these exact steps:
 5. **Enter**: `betterfriend.live`
 6. **Click "Verify"** → Then **"Add domain"**
 
-Netlify will automatically add `www.betterfriend.live` as well.
+Netlify will automatically add `www.tokzee.live` as well.
 
 ### Step 2: Configure DNS at Your Domain Registrar
 

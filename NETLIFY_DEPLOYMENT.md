@@ -65,7 +65,7 @@ This guide will help you deploy the Better Friend marketing website to Netlify.
 
 1. Go to your Netlify site dashboard
 2. Click "Domain settings" → "Add custom domain"
-3. Enter `www.betterfriend.live`
+3. Enter `www.tokzee.live`
 4. Follow the instructions to configure your DNS settings
 
 ### DNS Configuration for betterfriend.live

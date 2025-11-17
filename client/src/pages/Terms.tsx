@@ -33,7 +33,7 @@ export default function Terms() {
               </p>
               <p className="text-base text-muted-foreground mt-4">
                 These Terms apply to your use of our website{" "}
-                <span className="underline">www.betterfriend.live</span> and our
+                <span className="underline">www.tokzee.live</span> and our
                 mobile application (the “App”), together referred to as{" "}
                 <strong>BetterFriend</strong>. The App is operated by{" "}
                 <strong>VoicePe Technologies Pvt Ltd</strong> (the “Company”),

@@ -153,11 +153,11 @@ Now all HTTP requests will redirect to HTTPS automatically.
 ```bash
 # In terminal (Mac/Linux)
 dig betterfriend.live
-dig www.betterfriend.live
+dig www.tokzee.live
 
 # Should show:
 # betterfriend.live → 75.2.60.5
-# www.betterfriend.live → [yoursite].netlify.app
+# www.tokzee.live → [yoursite].netlify.app
 ```
 
 ### Test SSL:
@@ -222,7 +222,7 @@ This URL:
 
 After Netlify provisions the SSL certificate:
 - ✅ `https://betterfriend.live` will work perfectly
-- ✅ `https://www.betterfriend.live` will work too
+- ✅ `https://www.tokzee.live` will work too
 - ✅ HTTP automatically redirects to HTTPS
 - ✅ No more SSL errors
 - ✅ Green padlock in browser
