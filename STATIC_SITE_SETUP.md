@@ -120,7 +120,7 @@ npx vite build
 
 ### Contact Information
 - **Address**: 48-B Ambamata Scheme, Udaipur, Rajasthan
-- **Email**: support@betterfriend.live
+- **Email**: support@tokzee.live
 
 ---
 
@@ -207,7 +207,7 @@ npx vite build
 ## 📞 Support
 
 For website updates or issues:
-- **Email**: support@betterfriend.live
+- **Email**: support@tokzee.live
 - **Repository**: [Your GitHub repo URL]
 - **Netlify Dashboard**: https://app.netlify.com
 

@@ -37,7 +37,7 @@ export default function Privacy() {
                 Please read this Privacy Policy along with our{" "}
                 <a href="/terms" className="underline">Terms and Conditions of Use</a>. In case of any conflict between the two,
                 this Privacy Policy will override the Terms. If you have any questions, feel free to reach out at{" "}
-                <a href="mailto:support@betterfriend.live" className="underline">support@betterfriend.live</a>.
+                <a href="mailto:support@tokzee.live" className="underline">support@tokzee.live</a>.
               </p>
             </div>
 
@@ -343,14 +343,14 @@ export default function Privacy() {
                 <h3 className="text-xl font-semibold mt-6 mb-2">How to exercise your rights</h3>
                 <p className="text-muted-foreground">
                   To exercise any of these rights, please contact us at{" "}
-                  <a href="mailto:support@betterfriend.live" className="underline">support@betterfriend.live</a>.
+                  <a href="mailto:support@tokzee.live" className="underline">support@tokzee.live</a>.
                   For your safety, we may ask you to verify your identity before we process your request.
                 </p>
 
                 <h3 className="text-xl font-semibold mt-6 mb-2">Marketing communications</h3>
                 <p className="text-muted-foreground">
                   You can opt out of receiving marketing communications from us at any time by emailing{" "}
-                  <a href="mailto:support@betterfriend.live" className="underline">support@betterfriend.live</a>.
+                  <a href="mailto:support@tokzee.live" className="underline">support@tokzee.live</a>.
                   Please note that even if you opt out of marketing, we may still contact you with important service-related or administrative messages,
                   as permitted by law.
                 </p>
@@ -372,12 +372,12 @@ export default function Privacy() {
                 <h3 className="text-xl font-semibold mt-6 mb-2">Email Support</h3>
                 <p className="text-muted-foreground">
                   For service-related issues such as app performance, please contact our support team at{" "}
-                  <a href="mailto:support@betterfriend.live" className="underline">support@betterfriend.live</a>.
+                  <a href="mailto:support@tokzee.live" className="underline">support@tokzee.live</a>.
                 </p>
 
                 <h3 className="text-xl font-semibold mt-6 mb-2">Grievance Officer (designation only)</h3>
                 <address className="not-italic text-muted-foreground">
-                  Email: <a href="mailto:support@betterfriend.live" className="underline">support@betterfriend.live</a>
+                  Email: <a href="mailto:support@tokzee.live" className="underline">support@tokzee.live</a>
                   <br />
                   Address: 48-B Ambamata Scheme, Udaipur, Rajasthan, 313003
                 </address>

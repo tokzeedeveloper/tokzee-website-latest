@@ -285,10 +285,10 @@ export default function Terms() {
                   or permanently terminating your account. You may write to us
                   at{" "}
                   <a
-                    href="mailto:support@betterfriend.live"
+                    href="mailto:support@tokzee.live"
                     className="underline"
                   >
-                    support@betterfriend.live
+                    support@tokzee.live
                   </a>{" "}
                   if you wish to appeal any action taken.
                 </p>
@@ -667,10 +667,10 @@ export default function Terms() {
                   For service-related issues such as app performance, please
                   contact our support team at{" "}
                   <a
-                    href="mailto:support@betterfriend.live"
+                    href="mailto:support@tokzee.live"
                     className="underline"
                   >
-                    support@betterfriend.live
+                    support@tokzee.live
                   </a>
                   .
                 </p>
@@ -681,10 +681,10 @@ export default function Terms() {
                 <address className="not-italic text-muted-foreground">
                   Email:{" "}
                   <a
-                    href="mailto:support@betterfriend.live"
+                    href="mailto:support@tokzee.live"
                     className="underline"
                   >
-                    support@betterfriend.live
+                    support@tokzee.live
                   </a>
                   <br />
                   Address: 48-B Ambamata Scheme, Udaipur, Rajasthan, 313003,
@@ -702,10 +702,10 @@ export default function Terms() {
                   <br />
                   Email:{" "}
                   <a
-                    href="mailto:support@betterfriend.live"
+                    href="mailto:support@tokzee.live"
                     className="underline"
                   >
-                    support@betterfriend.live
+                    support@tokzee.live
                   </a>
                 </p>
               </section>
