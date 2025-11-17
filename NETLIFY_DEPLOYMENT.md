@@ -1,6 +1,6 @@
-# Better Friend - Netlify Deployment Guide
+# Tokzee - Netlify Deployment Guide
 
-This guide will help you deploy the Better Friend marketing website to Netlify.
+This guide will help you deploy the Tokzee marketing website to Netlify.
 
 ## Prerequisites
 
@@ -155,5 +155,5 @@ For issues with Netlify deployment, check:
 - Netlify Docs: https://docs.netlify.com
 - Netlify Support: https://www.netlify.com/support/
 
-For issues with the Better Friend website:
+For issues with the Tokzee website:
 - Contact: 48-B Ambamata Scheme, Udaipur, Rajasthan, India

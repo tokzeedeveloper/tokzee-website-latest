@@ -1,8 +1,8 @@
-# Better Friend
+# Tokzee
 
 ## Overview
 
-Better Friend is an anonymous audio and video calling platform that connects users with verified companions for meaningful conversations. This is a **static marketing website** featuring the home page, privacy policy, terms of service, and community guidelines.
+Tokzee is an anonymous audio and video calling platform that connects users with verified companions for meaningful conversations. This is a **static marketing website** featuring the home page, privacy policy, terms of service, and community guidelines.
 
 The site is built as a pure frontend application with React and deployed to Netlify as a static site.
 

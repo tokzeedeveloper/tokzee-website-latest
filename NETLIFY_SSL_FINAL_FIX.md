@@ -26,7 +26,7 @@ The domain `Tokzee.live` is trying to connect via HTTPS, but:
 ### **Step 1: Check Your Netlify Dashboard**
 
 1. **Go to**: https://app.netlify.com
-2. **Click** on your Better Friend site
+2. **Click** on your Tokzee site
 3. **Go to**: "Domain management" (left sidebar)
 
 **What do you see?**

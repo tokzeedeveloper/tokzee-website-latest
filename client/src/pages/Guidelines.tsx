@@ -6,8 +6,8 @@ export default function Guidelines() {
   return (
     <>
       <SEOHead 
-        title="Community Guidelines - Better Friend"
-        description="Read Better Friend's community guidelines for respectful, safe interactions. Learn about our standards for meaningful conversations and user conduct."
+        title="Community Guidelines - Tokzee"
+        description="Read Tokzee's community guidelines for respectful, safe interactions. Learn about our standards for meaningful conversations and user conduct."
         canonical="https://www.tokzee.live/guidelines"
       />
       <div className="min-h-screen flex flex-col">
@@ -24,7 +24,7 @@ export default function Guidelines() {
               <section className="mb-12">
                 <h2 className="text-2xl font-semibold mb-4 mt-12">Our Mission</h2>
                 <p className="text-base leading-relaxed text-muted-foreground mb-4">
-                  Better Friend exists to create a safe, supportive space for meaningful human connections. These guidelines help ensure every conversation is respectful, empathetic, and positive.
+                  Tokzee exists to create a safe, supportive space for meaningful human connections. These guidelines help ensure every conversation is respectful, empathetic, and positive.
                 </p>
               </section>
 
@@ -119,7 +119,7 @@ export default function Guidelines() {
               <section className="mb-12">
                 <h2 className="text-2xl font-semibold mb-4 mt-12">Mental Health Resources</h2>
                 <p className="text-base leading-relaxed text-muted-foreground mb-4">
-                  Better Friend is not a substitute for professional mental health services. If you or someone you know is experiencing a mental health crisis:
+                  Tokzee is not a substitute for professional mental health services. If you or someone you know is experiencing a mental health crisis:
                 </p>
                 <ul className="space-y-2 mb-4">
                   <li className="text-base leading-relaxed text-muted-foreground">Contact local emergency services immediately</li>

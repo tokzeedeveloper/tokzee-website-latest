@@ -12,7 +12,7 @@ Your site is already live and working with HTTPS at your Netlify subdomain.
 
 **Find your Netlify URL:**
 1. Go to https://app.netlify.com
-2. Click on your Better Friend site
+2. Click on your Tokzee site
 3. Look for the URL: `https://[something].netlify.app`
 
 **This URL:**
@@ -32,7 +32,7 @@ To make `Tokzee.live` work with HTTPS, follow these exact steps:
 ### Step 1: Configure Domain in Netlify Dashboard
 
 1. **Log in to Netlify**: https://app.netlify.com
-2. **Select your Better Friend site**
+2. **Select your Tokzee site**
 3. **Go to "Domain management"** (in the left sidebar or top menu)
 4. **Click "Add custom domain"**
 5. **Enter**: `Tokzee.live`

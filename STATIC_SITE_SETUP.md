@@ -1,4 +1,4 @@
-# Better Friend - Static Website Setup
+# Tokzee - Static Website Setup
 
 ## ✅ Current Structure
 
@@ -215,4 +215,4 @@ For website updates or issues:
 
 ## 📝 License
 
-© 2025 Better Friend. All rights reserved.
+© 2025 Tokzee. All rights reserved.

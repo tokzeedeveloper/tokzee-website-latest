@@ -17,7 +17,7 @@ export default function Home() {
   return (
     <>
       <SEOHead 
-        title="Better Friend - Your Companion for Meaningful Conversations | Anonymous Audio & Video Calling"
+        title="Tokzee - Your Companion for Meaningful Conversations | Anonymous Audio & Video Calling"
         description="Connect with verified companions for meaningful, anonymous conversations. Audio and video calls in a safe, encrypted environment. Available 24/7 in 50+ countries."
         canonical="https://www.tokzee.live"
       />
@@ -35,13 +35,13 @@ export default function Home() {
             <div className="max-w-6xl mx-auto px-8 lg:px-12 relative">
               <div className="text-center mb-20">
                 <div className="inline-block px-6 py-2 bg-primary/10 rounded-full text-primary font-semibold mb-6">
-                  ✨ Why Choose Better Friend
+                  ✨ Why Choose Tokzee
                 </div>
                 <h2 className="text-4xl md:text-5xl font-display font-bold mb-6 bg-gradient-to-r from-primary to-accent bg-clip-text text-transparent">
                   Private audio & video calls
                 </h2>
                 <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
-                  Every profile on Better Friend is 100% verified, so you are always talking to real people
+                  Every profile on Tokzee is 100% verified, so you are always talking to real people
                 </p>
               </div>
               <div className="grid grid-cols-1 md:grid-cols-3 gap-12 md:gap-16">
@@ -105,7 +105,7 @@ export default function Home() {
                 <div className="inline-block px-6 py-2 bg-primary/20 rounded-full text-primary font-semibold mb-6">
                   🛡️ Your Safety First
                 </div>
-                <h2 className="text-4xl md:text-5xl font-display font-bold mb-6">At Better Friend, your safety comes first</h2>
+                <h2 className="text-4xl md:text-5xl font-display font-bold mb-6">At Tokzee, your safety comes first</h2>
                 <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
                   Talk openly and safely, with no need to share your identity. Your privacy is always protected.
                 </p>
@@ -152,7 +152,7 @@ export default function Home() {
               </div>
               <div className="grid grid-cols-1 md:grid-cols-2 gap-12 md:gap-16">
                 <TestimonialCard 
-                  quote="Better Friend became a safe space for me when I felt completely overwhelmed."
+                  quote="Tokzee became a safe space for me when I felt completely overwhelmed."
                   author="Rhea"
                   age={24}
                 />
