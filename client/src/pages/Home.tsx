@@ -19,7 +19,7 @@ export default function Home() {
       <SEOHead 
         title="Better Friend - Your Companion for Meaningful Conversations | Anonymous Audio & Video Calling"
         description="Connect with verified companions for meaningful, anonymous conversations. Audio and video calls in a safe, encrypted environment. Available 24/7 in 50+ countries."
-        canonical="https://www.betterfriend.live"
+        canonical="https://www.tokzee.live"
       />
       <div className="min-h-screen flex flex-col">
         <Header />
