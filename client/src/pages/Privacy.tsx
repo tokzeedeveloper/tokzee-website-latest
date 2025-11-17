@@ -8,7 +8,7 @@ export default function Privacy() {
       <SEOHead
         title="Privacy Policy - BetterFriend"
         description="How BetterFriend collects, uses, stores, and shares your personal information, and the choices you have about your data."
-        canonical="https://www.betterfriend.live/privacy"
+        canonical="https://www.tokzee.live/privacy"
       />
 
       <div className="min-h-screen flex flex-col">
